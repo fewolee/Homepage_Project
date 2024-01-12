@@ -105,35 +105,6 @@ Slack / Email API를 통해 관리자 알림 기능 및 이메일 답장 방식
 
 <br>
 
-## ERD(DB 구조)
-![erd]
-
-## User / Admin Flow
-![userflow]
-
-## 아키텍처
-![architecture]
-
-## 제작
-### 제작 파트
-- 박성훈(shprk) : BE
-- 이철우(fewolee) : BE
-- 이용우(yw824) : FE
-
-### WBS
-![wbs]
-
-
-### 
-
-## 배운 점 & 아쉬운 점
-
-<p align="justify">
-
-</p>
-
-<br>
-
 ## 라이센스
 
 MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
